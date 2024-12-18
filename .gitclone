@@ -1,0 +1,28 @@
+# Build directories
+Debug/
+Release/
+x64/
+Win32/
+
+# Visual Studio folders
+.vs/
+ipch/
+
+# Compiled object files
+*.obj
+*.pch
+*.ilk
+*.idb
+*.pdb
+*.tlog
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.opendb
+
+# Backup and temporary files
+*.tmp
+*.bak
+*.aps
